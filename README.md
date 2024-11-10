@@ -1,0 +1,1 @@
+# pl-service-blog-manager
